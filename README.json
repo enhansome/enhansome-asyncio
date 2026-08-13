@@ -1,0 +1,882 @@
+{
+  "items": [
+    {
+      "description": "Libraries to build web applications.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FastAPI",
+          "description": "A very high performance Python 3.6+ API framework based on type hints. Powered by Starlette and Pydantic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T07:19:26Z",
+            "owner": "fastapi",
+            "repo": "fastapi",
+            "stars": 101562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sanic",
+          "description": "Python 3.5+ web server that's written to go fast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T03:09:51Z",
+            "owner": "sanic-org",
+            "repo": "sanic",
+            "stars": 18645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiohttp",
+          "description": "Http client/server for asyncio (PEP-3156).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T11:05:30Z",
+            "owner": "aio-libs",
+            "repo": "aiohttp",
+            "stars": 16521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starlette",
+          "description": "A lightweight ASGI framework/toolkit for building high performance services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T08:54:49Z",
+            "owner": "Kludex",
+            "repo": "starlette",
+            "stars": 12539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uvicorn",
+          "description": "The lightning-fast ASGI server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:02:24Z",
+            "owner": "Kludex",
+            "repo": "uvicorn",
+            "stars": 10898
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "websockets",
+          "description": "A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T19:18:46Z",
+            "owner": "python-websockets",
+            "repo": "websockets",
+            "stars": 5711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quart",
+          "description": "An asyncio web microframework with the same API as Flask.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T20:23:31Z",
+            "owner": "pallets",
+            "repo": "quart",
+            "stars": 3657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autobahn",
+          "description": "WebSocket and WAMP supporting asyncio and Twisted, for clients and servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T18:49:29Z",
+            "owner": "crossbario",
+            "repo": "autobahn-python",
+            "stars": 2541
+          }
+        }
+      ],
+      "title": "Web Frameworks"
+    },
+    {
+      "description": "Libraries to implement applications using message queues.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyzmq",
+          "description": "Python bindings for ZeroMQ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T17:16:22Z",
+            "owner": "zeromq",
+            "repo": "pyzmq",
+            "stars": 4161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crossbar",
+          "description": "Crossbar.io is a networking platform for distributed and microservice applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T05:17:19Z",
+            "owner": "crossbario",
+            "repo": "crossbar",
+            "stars": 2064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiokafka",
+          "description": "Client for Apache Kafka.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T13:30:45Z",
+            "owner": "aio-libs",
+            "repo": "aiokafka",
+            "stars": 1397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asyncio-nats",
+          "description": "Client for the NATS messaging system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T05:20:11Z",
+            "owner": "nats-io",
+            "repo": "nats.py",
+            "stars": 1242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiozmq",
+          "description": "Alternative Asyncio integration with ZeroMQ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-26T15:49:32Z",
+            "owner": "aio-libs",
+            "repo": "aiozmq",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aioamqp",
+          "description": "AMQP implementation using asyncio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-19T09:54:20Z",
+            "owner": "Polyconseil",
+            "repo": "aioamqp",
+            "stars": 281
+          }
+        }
+      ],
+      "title": "Message Queues"
+    },
+    {
+      "description": "Libraries to connect to databases.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "redis-py",
+          "description": "Redis Python Client (which includes aioreadis now).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T11:19:47Z",
+            "owner": "redis",
+            "repo": "redis-py",
+            "stars": 13614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asyncpg",
+          "description": "Fast PostgreSQL Database Client Library for Python/asyncio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-27T20:48:41Z",
+            "owner": "MagicStack",
+            "repo": "asyncpg",
+            "stars": 8062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tortoise ORM",
+          "description": "native multi-backend ORM with Django-like API and easy relations management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T10:46:13Z",
+            "owner": "tortoise",
+            "repo": "tortoise-orm",
+            "stars": 5611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pymongo",
+          "description": "The Official MongoDB Python driver, offering both synchronous and asynchronous APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:02:39Z",
+            "owner": "mongodb",
+            "repo": "mongo-python-driver",
+            "stars": 4352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beanie",
+          "description": "An async MongoDB ODM built on pymongo and Pydantic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:02:39Z",
+            "owner": "mongodb",
+            "repo": "mongo-python-driver",
+            "stars": 4352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Databases",
+          "description": "Async database access for SQLAlchemy core, with support for PostgreSQL, MySQL, and SQLite.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-05-21T19:58:17Z",
+            "owner": "encode",
+            "repo": "databases",
+            "stars": 3997
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GINO",
+          "description": "is a lightweight asynchronous Python ORM based on SQLAlchemy core, with asyncpg dialect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-12T20:35:18Z",
+            "owner": "python-gino",
+            "repo": "gino",
+            "stars": 2794
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prisma Client Python",
+          "description": "An auto-generated, fully type safe ORM powered by Pydantic and tailored specifically for your schema - supports SQLite, PostgreSQL, MySQL, MongoDB, MariaDB and more.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-04-10T08:07:05Z",
+            "owner": "RobertCraigie",
+            "repo": "prisma-client-py",
+            "stars": 2098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Piccolo",
+          "description": "An ORM / query builder which can work in async and sync modes, with a nice admin GUI, and ASGI middleware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T20:47:27Z",
+            "owner": "piccolo-orm",
+            "repo": "piccolo",
+            "stars": 1936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiomysql",
+          "description": "Library for accessing a MySQL database",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-27T01:52:43Z",
+            "owner": "aio-libs",
+            "repo": "aiomysql",
+            "stars": 1895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiopg",
+          "description": "Library for accessing a PostgreSQL database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-03T21:01:33Z",
+            "owner": "aio-libs",
+            "repo": "aiopg",
+            "stars": 1432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "peewee-async",
+          "description": "ORM implementation based on peewee and aiopg.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T12:38:30Z",
+            "owner": "05bit",
+            "repo": "peewee-async",
+            "stars": 765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asyncpgsa",
+          "description": "Asyncpg with sqlalchemy core support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-17T13:41:22Z",
+            "owner": "CanopyTax",
+            "repo": "asyncpgsa",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aioodbc",
+          "description": "Library for accessing a ODBC databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-28T21:35:34Z",
+            "owner": "aio-libs",
+            "repo": "aioodbc",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aioinflux",
+          "description": "InfluxDB client built on top of aiohttp.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-08-05T06:01:48Z",
+            "owner": "gusutabopb",
+            "repo": "aioinflux",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aioes",
+          "description": "Asyncio compatible driver for elasticsearch.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-04-29T06:12:23Z",
+            "owner": "aio-libs-abandoned",
+            "repo": "aioes",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiocouchdb",
+          "description": "CouchDB client built on top of aiohttp (asyncio).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-05-09T08:36:04Z",
+            "owner": "aio-libs",
+            "repo": "aiocouchdb",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "Database Drivers"
+    },
+    {
+      "description": "Libraries to communicate in your network.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "httpx",
+          "description": "asynchronous HTTP client for Python 3 with requests compatible API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-29T00:19:16Z",
+            "owner": "encode",
+            "repo": "httpx",
+            "stars": 15412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AsyncSSH",
+          "description": "Provides an asynchronous client and server implementation of the SSHv2 protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T22:12:17Z",
+            "owner": "ronf",
+            "repo": "asyncssh",
+            "stars": 1753
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiodns",
+          "description": "Simple DNS resolver for asyncio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T15:36:56Z",
+            "owner": "aio-libs",
+            "repo": "aiodns",
+            "stars": 594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aioping",
+          "description": "Fast asyncio implementation of ICMP (ping) protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-21T22:51:21Z",
+            "owner": "stellarbit",
+            "repo": "aioping",
+            "stars": 92
+          }
+        }
+      ],
+      "title": "Networking"
+    },
+    {
+      "description": "Libraries to test asyncio based applications.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pytest-asyncio",
+          "description": "Pytest support for asyncio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:42:27Z",
+            "owner": "pytest-dev",
+            "repo": "pytest-asyncio",
+            "stars": 1656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aioresponses",
+          "description": "Helper for mock/fake web requests in Python aiohttp package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T21:15:11Z",
+            "owner": "pnuckowski",
+            "repo": "aioresponses",
+            "stars": 557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asynctest",
+          "description": "Enhance the standard unittest package with features for testing. asyncio libraries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-22T12:09:21Z",
+            "owner": "Martiusweb",
+            "repo": "asynctest",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aresponses",
+          "description": "Asyncio http mocking. Similar to the responses library used for requests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-11T15:20:18Z",
+            "owner": "aresponses",
+            "repo": "aresponses",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiomock",
+          "description": "A python mock library that supports async methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-19T04:04:47Z",
+            "owner": "nhumrich",
+            "repo": "aiomock",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "Other awesome asyncio libraries.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aiofiles",
+          "description": "File support for asyncio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T20:20:36Z",
+            "owner": "Tinche",
+            "repo": "aiofiles",
+            "stars": 3252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ruia",
+          "description": "An async web scraping micro-framework based on asyncio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-01T08:23:28Z",
+            "owner": "howie6879",
+            "repo": "ruia",
+            "stars": 1737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asgiref",
+          "description": "Backend utils for ASGI to WSGI integration, includes sync_to_async and async_to_sync function wrappers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T09:04:53Z",
+            "owner": "django",
+            "repo": "asgiref",
+            "stars": 1628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiocache",
+          "description": "Cache manager for different backends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-28T20:08:27Z",
+            "owner": "aio-libs",
+            "repo": "aiocache",
+            "stars": 1437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiorun",
+          "description": "A function that handles all the usual boilerplate for startup and graceful shutdown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T19:02:46Z",
+            "owner": "cjrh",
+            "repo": "aiorun",
+            "stars": 470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubernetes_asyncio",
+          "description": "Asynchronous client library for Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T02:02:41Z",
+            "owner": "tomplus",
+            "repo": "kubernetes_asyncio",
+            "stars": 436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiomisc",
+          "description": "Miscellaneous utils for .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T06:54:00Z",
+            "owner": "aiokitchen",
+            "repo": "aiomisc",
+            "stars": 424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiopath",
+          "description": "Asynchronous for asyncio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T11:08:38Z",
+            "owner": "alexdelorenzo",
+            "repo": "aiopath",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiozipkin",
+          "description": "Distributed tracing instrumentation for asyncio with zipkin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:27:19Z",
+            "owner": "aio-libs",
+            "repo": "aiozipkin",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiochan",
+          "description": "CSP-style concurrency with channels, select and multiprocessing on top of asyncio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-29T09:43:09Z",
+            "owner": "zh217",
+            "repo": "aiochan",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aioserial",
+          "description": "A drop-in replacement of pySerial.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-25T02:18:02Z",
+            "owner": "johannjhang",
+            "repo": "aioserial.py",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "async_property",
+          "description": "Python decorator for async properties.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-16T07:07:31Z",
+            "owner": "ryananguiano",
+            "repo": "async_property",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiodebug",
+          "description": "A tiny library for monitoring and testing asyncio programs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-04T11:03:50Z",
+            "owner": "qntln",
+            "repo": "aiodebug",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiosc",
+          "description": "Lightweight Open Sound Control implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T18:12:04Z",
+            "owner": "artfwo",
+            "repo": "aiosc",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Misc"
+    },
+    {
+      "description": "Alternative approaches to async programming in Python, some of which attempt to support some compatibility with , others are not compatible at all.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "trio",
+          "description": "Pythonic async I/O for humans and snake people.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "trio-asyncio",
+              "description": "re-implementation of the asyncio mainloop on top of Trio.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-18T16:07:50Z",
+                "owner": "python-trio",
+                "repo": "trio-asyncio",
+                "stars": 204
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T00:45:57Z",
+            "owner": "python-trio",
+            "repo": "trio",
+            "stars": 7305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "curio",
+          "description": "The coroutine concurrency library.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Curio-Asyncio Bridge",
+              "description": "basic curio -> asyncio coroutine bridge.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2025-12-21T15:48:55Z",
+                "owner": "dabeaz",
+                "repo": "curio",
+                "stars": 4126
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-12-21T15:48:55Z",
+            "owner": "dabeaz",
+            "repo": "curio",
+            "stars": 4126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnyIO",
+          "description": "High level asynchronous concurrency and networking framework that works on top of either trio or asyncio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:13:36Z",
+            "owner": "agronholm",
+            "repo": "anyio",
+            "stars": 2524
+          }
+        }
+      ],
+      "title": "Alternatives to asyncio"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:29:16.464Z",
+    "original_repository": "timofurrer/awesome-asyncio",
+    "original_repository_sha": "f2564685e4c8a89a18f53246ea3ec0d2f0441a92",
+    "enhanced_repository": "enhansome/enhansome-asyncio",
+    "enhanced_repository_description": null,
+    "title": "Awesome asyncio with stars"
+  }
+}
