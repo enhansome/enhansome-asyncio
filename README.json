@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T08:59:04Z",
+            "last_commit": "2026-08-17T20:15:06Z",
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101631
+            "stars": 101672
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-29T03:09:51Z",
             "owner": "sanic-org",
             "repo": "sanic",
-            "stars": 18644
+            "stars": 18642
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T11:21:23Z",
+            "last_commit": "2026-08-18T11:12:55Z",
             "owner": "aio-libs",
             "repo": "aiohttp",
-            "stars": 16523
+            "stars": 16526
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-11T08:54:49Z",
             "owner": "Kludex",
             "repo": "starlette",
-            "stars": 12547
+            "stars": 12549
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T19:07:08Z",
+            "last_commit": "2026-08-18T11:23:44Z",
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10906
+            "stars": 10909
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-10T19:18:46Z",
             "owner": "python-websockets",
             "repo": "websockets",
-            "stars": 5713
+            "stars": 5712
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-08-14T14:43:56Z",
             "owner": "pallets",
             "repo": "quart",
-            "stars": 3658
+            "stars": 3657
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-07-15T18:49:29Z",
             "owner": "crossbario",
             "repo": "autobahn-python",
-            "stars": 2541
+            "stars": 2542
           }
         }
       ],
@@ -171,7 +171,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T09:47:34Z",
+            "last_commit": "2026-08-17T23:38:02Z",
             "owner": "nats-io",
             "repo": "nats.py",
             "stars": 1241
@@ -219,10 +219,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T10:16:37Z",
+            "last_commit": "2026-08-18T11:09:47Z",
             "owner": "redis",
             "repo": "redis-py",
-            "stars": 13609
+            "stars": 13610
           }
         },
         {
@@ -261,10 +261,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T11:40:13Z",
+            "last_commit": "2026-08-18T11:50:45Z",
             "owner": "mongodb",
             "repo": "mongo-python-driver",
-            "stars": 4353
+            "stars": 4352
           }
         },
         {
@@ -275,10 +275,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T11:40:13Z",
+            "last_commit": "2026-08-18T11:50:45Z",
             "owner": "mongodb",
             "repo": "mongo-python-driver",
-            "stars": 4353
+            "stars": 4352
           }
         },
         {
@@ -292,7 +292,7 @@
             "last_commit": "2024-05-21T19:58:17Z",
             "owner": "encode",
             "repo": "databases",
-            "stars": 3997
+            "stars": 3996
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-03-27T01:52:43Z",
             "owner": "aio-libs",
             "repo": "aiomysql",
-            "stars": 1895
+            "stars": 1896
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2025-12-03T21:01:33Z",
             "owner": "aio-libs",
             "repo": "aiopg",
-            "stars": 1432
+            "stars": 1433
           }
         },
         {
@@ -466,7 +466,7 @@
             "last_commit": "2026-03-29T00:19:16Z",
             "owner": "encode",
             "repo": "httpx",
-            "stars": 15424
+            "stars": 15428
           }
         },
         {
@@ -646,7 +646,7 @@
             "last_commit": "2026-06-28T20:08:27Z",
             "owner": "aio-libs",
             "repo": "aiocache",
-            "stars": 1438
+            "stars": 1436
           }
         },
         {
@@ -713,7 +713,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T16:27:19Z",
+            "last_commit": "2026-08-17T16:26:44Z",
             "owner": "aio-libs",
             "repo": "aiozipkin",
             "stars": 193
@@ -818,10 +818,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T00:45:57Z",
+            "last_commit": "2026-08-18T00:29:06Z",
             "owner": "python-trio",
             "repo": "trio",
-            "stars": 7303
+            "stars": 7302
           }
         },
         {
@@ -861,10 +861,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T13:22:08Z",
+            "last_commit": "2026-08-18T07:16:55Z",
             "owner": "agronholm",
             "repo": "anyio",
-            "stars": 2528
+            "stars": 2531
           }
         }
       ],
@@ -872,7 +872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T11:55:06.805Z",
+    "last_updated": "2026-08-18T11:55:52.770Z",
     "original_repository": "timofurrer/awesome-asyncio",
     "original_repository_sha": "f2564685e4c8a89a18f53246ea3ec0d2f0441a92",
     "enhanced_repository": "enhansome/enhansome-asyncio",
