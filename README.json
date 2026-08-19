@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160919119,
             "language": "Python",
-            "last_commit": "2026-08-17T20:15:06Z",
+            "last_commit": "2026-08-19T08:58:11Z",
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101672
+            "stars": 101691
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59720190,
             "language": "Python",
             "last_commit": "2026-07-29T03:09:51Z",
             "owner": "sanic-org",
             "repo": "sanic",
-            "stars": 18642
+            "stars": 18643
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13258039,
             "language": "Python",
-            "last_commit": "2026-08-18T11:12:55Z",
+            "last_commit": "2026-08-19T02:34:17Z",
             "owner": "aio-libs",
             "repo": "aiohttp",
-            "stars": 16526
+            "stars": 16528
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138597372,
             "language": "Python",
             "last_commit": "2026-08-11T08:54:49Z",
             "owner": "Kludex",
@@ -66,8 +70,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92946971,
             "language": "Python",
-            "last_commit": "2026-08-18T11:23:44Z",
+            "last_commit": "2026-08-19T06:01:10Z",
             "owner": "Kludex",
             "repo": "uvicorn",
             "stars": 10909
@@ -80,8 +85,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9113587,
             "language": "Python",
-            "last_commit": "2026-08-10T19:18:46Z",
+            "last_commit": "2026-08-19T06:13:06Z",
             "owner": "python-websockets",
             "repo": "websockets",
             "stars": 5712
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110288200,
             "language": "Python",
             "last_commit": "2026-08-14T14:43:56Z",
             "owner": "pallets",
             "repo": "quart",
-            "stars": 3657
+            "stars": 3658
           }
         },
         {
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2113510,
             "language": "Python",
             "last_commit": "2026-07-15T18:49:29Z",
             "owner": "crossbario",
             "repo": "autobahn-python",
-            "stars": 2542
+            "stars": 2543
           }
         }
       ],
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 788264,
             "language": "Python",
             "last_commit": "2026-08-14T20:39:57Z",
             "owner": "zeromq",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13559106,
             "language": "Python",
             "last_commit": "2026-07-27T05:17:19Z",
             "owner": "crossbario",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26046938,
             "language": "Python",
             "last_commit": "2026-08-09T13:30:45Z",
             "owner": "aio-libs",
@@ -170,8 +181,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48712355,
             "language": "Python",
-            "last_commit": "2026-08-17T23:38:02Z",
+            "last_commit": "2026-08-19T01:35:14Z",
             "owner": "nats-io",
             "repo": "nats.py",
             "stars": 1241
@@ -184,11 +196,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12610153,
             "language": "Python",
             "last_commit": "2026-03-26T15:49:32Z",
             "owner": "aio-libs",
             "repo": "aiozmq",
-            "stars": 430
+            "stars": 431
           }
         },
         {
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17059992,
             "language": "Python",
             "last_commit": "2023-05-19T09:54:20Z",
             "owner": "Polyconseil",
@@ -218,11 +232,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 363150,
             "language": "Python",
-            "last_commit": "2026-08-18T11:09:47Z",
+            "last_commit": "2026-08-19T08:41:45Z",
             "owner": "redis",
             "repo": "redis-py",
-            "stars": 13610
+            "stars": 13609
           }
         },
         {
@@ -232,11 +247,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63652864,
             "language": "Python",
             "last_commit": "2026-02-27T20:48:41Z",
             "owner": "MagicStack",
             "repo": "asyncpg",
-            "stars": 8066
+            "stars": 8067
           }
         },
         {
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127320882,
             "language": "Python",
             "last_commit": "2026-08-13T15:24:46Z",
             "owner": "tortoise",
@@ -260,8 +277,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108051,
             "language": "Python",
-            "last_commit": "2026-08-18T11:50:45Z",
+            "last_commit": "2026-08-19T11:39:59Z",
             "owner": "mongodb",
             "repo": "mongo-python-driver",
             "stars": 4352
@@ -274,8 +292,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108051,
             "language": "Python",
-            "last_commit": "2026-08-18T11:50:45Z",
+            "last_commit": "2026-08-19T11:39:59Z",
             "owner": "mongodb",
             "repo": "mongo-python-driver",
             "stars": 4352
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 168684254,
             "language": "Python",
             "last_commit": "2024-05-21T19:58:17Z",
             "owner": "encode",
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97905816,
             "language": "Python",
             "last_commit": "2022-02-12T20:35:18Z",
             "owner": "python-gino",
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 321867901,
             "language": "Python",
             "last_commit": "2025-04-10T08:07:05Z",
             "owner": "RobertCraigie",
@@ -330,11 +352,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155008334,
             "language": "Python",
             "last_commit": "2026-08-07T20:47:27Z",
             "owner": "piccolo-orm",
             "repo": "piccolo",
-            "stars": 1937
+            "stars": 1936
           }
         },
         {
@@ -344,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28932001,
             "language": "Python",
             "last_commit": "2026-03-27T01:52:43Z",
             "owner": "aio-libs",
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18398494,
             "language": "Python",
             "last_commit": "2025-12-03T21:01:33Z",
             "owner": "aio-libs",
@@ -372,8 +397,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24544015,
             "language": "Python",
-            "last_commit": "2026-08-17T00:33:16Z",
+            "last_commit": "2026-08-19T00:33:01Z",
             "owner": "05bit",
             "repo": "peewee-async",
             "stars": 763
@@ -386,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63980116,
             "language": "Python",
             "last_commit": "2024-02-17T13:41:22Z",
             "owner": "CanopyTax",
@@ -400,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39036054,
             "language": "Python",
             "last_commit": "2023-10-28T21:35:34Z",
             "owner": "aio-libs",
@@ -414,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 93475529,
             "language": "Python",
             "last_commit": "2023-08-05T06:01:48Z",
             "owner": "gusutabopb",
@@ -428,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 22916870,
             "language": "Python",
             "last_commit": "2019-04-29T06:12:23Z",
             "owner": "aio-libs-abandoned",
@@ -442,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21313655,
             "language": "Python",
             "last_commit": "2018-05-09T08:36:04Z",
             "owner": "aio-libs",
@@ -462,11 +493,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179492861,
             "language": "Python",
             "last_commit": "2026-03-29T00:19:16Z",
             "owner": "encode",
             "repo": "httpx",
-            "stars": 15428
+            "stars": 15429
           }
         },
         {
@@ -476,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15503123,
             "language": "Python",
             "last_commit": "2026-08-16T00:03:07Z",
             "owner": "ronf",
@@ -490,8 +523,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18157561,
             "language": "Python",
-            "last_commit": "2026-08-01T15:36:56Z",
+            "last_commit": "2026-08-18T15:33:49Z",
             "owner": "aio-libs",
             "repo": "aiodns",
             "stars": 594
@@ -504,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81907164,
             "language": "Python",
             "last_commit": "2024-01-21T22:51:21Z",
             "owner": "stellarbit",
@@ -524,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33756412,
             "language": "Python",
             "last_commit": "2026-08-12T19:42:27Z",
             "owner": "pytest-dev",
@@ -538,6 +574,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71044055,
             "language": "Python",
             "last_commit": "2026-06-23T21:15:11Z",
             "owner": "pnuckowski",
@@ -552,6 +589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33410140,
             "language": "Python",
             "last_commit": "2024-04-22T12:09:21Z",
             "owner": "Martiusweb",
@@ -566,6 +604,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102586271,
             "language": "Python",
             "last_commit": "2024-07-11T15:20:18Z",
             "owner": "aresponses",
@@ -580,6 +619,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67825866,
             "language": "Python",
             "last_commit": "2024-04-19T04:04:47Z",
             "owner": "nhumrich",
@@ -600,11 +640,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33088125,
             "language": "Python",
             "last_commit": "2026-07-18T20:20:36Z",
             "owner": "Tinche",
             "repo": "aiofiles",
-            "stars": 3253
+            "stars": 3254
           }
         },
         {
@@ -614,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140359487,
             "language": "Python",
             "last_commit": "2023-07-01T08:23:28Z",
             "owner": "howie6879",
@@ -628,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48501860,
             "language": "Python",
             "last_commit": "2026-08-10T09:04:53Z",
             "owner": "django",
@@ -642,11 +685,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69653334,
             "language": "Python",
             "last_commit": "2026-06-28T20:08:27Z",
             "owner": "aio-libs",
             "repo": "aiocache",
-            "stars": 1436
+            "stars": 1437
           }
         },
         {
@@ -656,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107533067,
             "language": "Python",
             "last_commit": "2026-08-10T19:02:46Z",
             "owner": "cjrh",
@@ -670,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128578499,
             "language": "Python",
             "last_commit": "2026-08-12T02:02:41Z",
             "owner": "tomplus",
@@ -684,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129414094,
             "language": "Python",
             "last_commit": "2026-07-10T06:54:00Z",
             "owner": "aiokitchen",
@@ -698,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345789541,
             "language": "Python",
             "last_commit": "2026-02-05T11:08:38Z",
             "owner": "alexdelorenzo",
@@ -712,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105470666,
             "language": "Python",
             "last_commit": "2026-08-17T16:26:44Z",
             "owner": "aio-libs",
@@ -726,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143047601,
             "language": "Python",
             "last_commit": "2022-11-29T09:43:09Z",
             "owner": "zh217",
@@ -740,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149075672,
             "language": "Python",
             "last_commit": "2022-07-25T02:18:02Z",
             "owner": "johannjhang",
@@ -754,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180741389,
             "language": "Python",
             "last_commit": "2026-04-16T07:07:31Z",
             "owner": "ryananguiano",
@@ -768,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72115546,
             "language": null,
             "last_commit": "2022-01-04T11:03:50Z",
             "owner": "qntln",
@@ -782,6 +835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22032294,
             "language": "Python",
             "last_commit": "2026-07-11T18:12:04Z",
             "owner": "artfwo",
@@ -807,6 +861,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 106653628,
                 "language": "Python",
                 "last_commit": "2026-05-18T16:07:50Z",
                 "owner": "python-trio",
@@ -817,6 +872,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 79083614,
             "language": "Python",
             "last_commit": "2026-08-18T00:29:06Z",
             "owner": "python-trio",
@@ -836,21 +892,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 44054354,
                 "language": "Python",
                 "last_commit": "2025-12-21T15:48:55Z",
                 "owner": "dabeaz",
                 "repo": "curio",
-                "stars": 4126
+                "stars": 4127
               }
             }
           ],
           "repo_info": {
             "archived": true,
+            "id": 44054354,
             "language": "Python",
             "last_commit": "2025-12-21T15:48:55Z",
             "owner": "dabeaz",
             "repo": "curio",
-            "stars": 4126
+            "stars": 4127
           }
         },
         {
@@ -860,11 +918,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145337588,
             "language": "Python",
-            "last_commit": "2026-08-18T07:16:55Z",
+            "last_commit": "2026-08-18T19:13:04Z",
             "owner": "agronholm",
             "repo": "anyio",
-            "stars": 2531
+            "stars": 2534
           }
         }
       ],
@@ -872,8 +931,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:55:52.770Z",
+    "last_updated": "2026-08-19T11:55:30.833Z",
     "original_repository": "timofurrer/awesome-asyncio",
+    "original_repository_id": 72524688,
     "original_repository_sha": "f2564685e4c8a89a18f53246ea3ec0d2f0441a92",
     "enhanced_repository": "enhansome/enhansome-asyncio",
     "enhanced_repository_description": null,
