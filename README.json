@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T08:58:11Z",
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101779
+            "stars": 101808
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 13258039,
             "language": "Python",
-            "last_commit": "2026-08-23T04:25:43Z",
+            "last_commit": "2026-08-24T11:00:46Z",
             "owner": "aio-libs",
             "repo": "aiohttp",
-            "stars": 16525
+            "stars": 16527
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 138597372,
             "language": "Python",
-            "last_commit": "2026-08-23T08:34:56Z",
+            "last_commit": "2026-08-23T20:56:13Z",
             "owner": "Kludex",
             "repo": "starlette",
-            "stars": 12561
+            "stars": 12562
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-23T06:19:31Z",
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10923
+            "stars": 10924
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 9113587,
             "language": "Python",
-            "last_commit": "2026-08-23T05:45:15Z",
+            "last_commit": "2026-08-24T07:40:52Z",
             "owner": "python-websockets",
             "repo": "websockets",
             "stars": 5713
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-20T18:37:40Z",
             "owner": "zeromq",
             "repo": "pyzmq",
-            "stars": 4163
+            "stars": 4164
           }
         },
         {
@@ -234,10 +234,10 @@
             "archived": false,
             "id": 363150,
             "language": "Python",
-            "last_commit": "2026-08-21T09:48:33Z",
+            "last_commit": "2026-08-24T08:00:22Z",
             "owner": "redis",
             "repo": "redis-py",
-            "stars": 13612
+            "stars": 13613
           }
         },
         {
@@ -279,7 +279,7 @@
             "archived": false,
             "id": 108051,
             "language": "Python",
-            "last_commit": "2026-08-21T18:01:20Z",
+            "last_commit": "2026-08-23T22:29:06Z",
             "owner": "mongodb",
             "repo": "mongo-python-driver",
             "stars": 4351
@@ -294,7 +294,7 @@
             "archived": false,
             "id": 108051,
             "language": "Python",
-            "last_commit": "2026-08-21T18:01:20Z",
+            "last_commit": "2026-08-23T22:29:06Z",
             "owner": "mongodb",
             "repo": "mongo-python-driver",
             "stars": 4351
@@ -399,7 +399,7 @@
             "archived": false,
             "id": 24544015,
             "language": "Python",
-            "last_commit": "2026-08-19T00:33:01Z",
+            "last_commit": "2026-08-24T00:33:19Z",
             "owner": "05bit",
             "repo": "peewee-async",
             "stars": 763
@@ -498,7 +498,7 @@
             "last_commit": "2026-03-29T00:19:16Z",
             "owner": "encode",
             "repo": "httpx",
-            "stars": 15430
+            "stars": 15431
           }
         },
         {
@@ -920,7 +920,7 @@
             "archived": false,
             "id": 145337588,
             "language": "Python",
-            "last_commit": "2026-08-23T10:56:11Z",
+            "last_commit": "2026-08-23T17:24:59Z",
             "owner": "agronholm",
             "repo": "anyio",
             "stars": 2535
@@ -931,7 +931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:53:15.161Z",
+    "last_updated": "2026-08-24T11:57:58.434Z",
     "original_repository": "timofurrer/awesome-asyncio",
     "original_repository_id": 72524688,
     "original_repository_sha": "f2564685e4c8a89a18f53246ea3ec0d2f0441a92",
