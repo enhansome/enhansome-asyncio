@@ -33,12 +33,12 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 *Libraries to build web applications.*
 
-* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 101,808 | 🐛 76 | 🌐 Python | 📅 2026-08-19 - A very high performance Python 3.6+ API framework based on type hints. Powered by Starlette and Pydantic.
+* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 101,813 | 🐛 76 | 🌐 Python | 📅 2026-08-19 - A very high performance Python 3.6+ API framework based on type hints. Powered by Starlette and Pydantic.
 * [sanic](https://github.com/channelcat/sanic) ⭐ 18,643 | 🐛 146 | 🌐 Python | 📅 2026-07-29 - Python 3.5+ web server that's written to go fast.
 * [aiohttp](https://github.com/KeepSafe/aiohttp) ⭐ 16,527 | 🐛 245 | 🌐 Python | 📅 2026-08-24 - Http client/server for asyncio (PEP-3156).
 * [Starlette](https://github.com/encode/starlette) ⭐ 12,562 | 🐛 70 | 🌐 Python | 📅 2026-08-23 - A lightweight ASGI framework/toolkit for building high performance services.
-* [uvicorn](https://github.com/encode/uvicorn) ⭐ 10,924 | 🐛 81 | 🌐 Python | 📅 2026-08-23 - The lightning-fast ASGI server.
-* [websockets](https://github.com/aaugustin/websockets/) ⭐ 5,713 | 🐛 3 | 🌐 Python | 📅 2026-08-24 - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
+* [uvicorn](https://github.com/encode/uvicorn) ⭐ 10,924 | 🐛 81 | 🌐 Python | 📅 2026-08-24 - The lightning-fast ASGI server.
+* [websockets](https://github.com/aaugustin/websockets/) ⭐ 5,714 | 🐛 3 | 🌐 Python | 📅 2026-08-24 - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
 * [Quart](https://github.com/pallets/quart) ⭐ 3,658 | 🐛 37 | 🌐 Python | 📅 2026-08-19 - An asyncio web microframework with the same API as Flask.
 * [autobahn](https://github.com/crossbario/autobahn-python) ⭐ 2,543 | 🐛 187 | 🌐 Python | 📅 2026-07-15 - WebSocket and WAMP supporting asyncio and Twisted, for clients and servers.
 * [Django](https://www.djangoproject.com/) - An established, high-level Python web framework with a huge community and ecosystem.
@@ -81,7 +81,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 *Libraries to communicate in your network.*
 
-* [httpx](https://github.com/encode/httpx) ⭐ 15,431 | 🐛 143 | 🌐 Python | 📅 2026-03-29 - asynchronous HTTP client for Python 3 with [requests](https://github.com/psf/requests) ⭐ 54,253 | 🐛 233 | 🌐 Python | 📅 2026-08-17 compatible API.
+* [httpx](https://github.com/encode/httpx) ⭐ 15,431 | 🐛 143 | 🌐 Python | 📅 2026-03-29 - asynchronous HTTP client for Python 3 with [requests](https://github.com/psf/requests) ⭐ 54,255 | 🐛 233 | 🌐 Python | 📅 2026-08-17 compatible API.
 * [AsyncSSH](https://github.com/ronf/asyncssh) ⭐ 1,753 | 🐛 14 | 🌐 Python | 📅 2026-08-16 - Provides an asynchronous client and server implementation of the SSHv2 protocol.
 * [aiodns](https://github.com/saghul/aiodns) ⭐ 592 | 🐛 15 | 🌐 Python | 📅 2026-08-18 - Simple DNS resolver for asyncio.
 * [aioping](https://github.com/stellarbit/aioping) ⭐ 92 | 🐛 10 | 🌐 Python | 📅 2024-01-21 - Fast asyncio implementation of ICMP (ping) protocol.
@@ -101,7 +101,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) ⭐ 1,657 | 🐛 50 | 🌐 Python | 📅 2026-08-21 - Pytest support for asyncio.
 * [aioresponses](https://github.com/pnuckowski/aioresponses) ⭐ 557 | 🐛 66 | 🌐 Python | 📅 2026-06-23 - Helper for mock/fake web requests in Python aiohttp package.
 * [asynctest](https://github.com/Martiusweb/asynctest/) ⭐ 310 | 🐛 50 | 🌐 Python | 📅 2024-04-22 - Enhance the standard unittest package with features for testing. asyncio libraries
-* [aresponses](https://github.com/CircleUp/aresponses) ⭐ 106 | 🐛 5 | 🌐 Python | 📅 2024-07-11 - Asyncio http mocking. Similar to the [responses](https://github.com/getsentry/responses) ⭐ 4,344 | 🐛 42 | 🌐 Python | 📅 2026-07-24 library used for [requests](https://github.com/requests/requests) ⭐ 54,253 | 🐛 233 | 🌐 Python | 📅 2026-08-17.
+* [aresponses](https://github.com/CircleUp/aresponses) ⭐ 106 | 🐛 5 | 🌐 Python | 📅 2024-07-11 - Asyncio http mocking. Similar to the [responses](https://github.com/getsentry/responses) ⭐ 4,344 | 🐛 42 | 🌐 Python | 📅 2026-07-24 library used for [requests](https://github.com/requests/requests) ⭐ 54,255 | 🐛 233 | 🌐 Python | 📅 2026-08-17.
 * [aiomock](https://github.com/nhumrich/aiomock/) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2024-04-19 - A python mock library that supports async methods.
 
 ## Alternative Loops

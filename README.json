@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T08:58:11Z",
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101808
+            "stars": 101813
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 92946971,
             "language": "Python",
-            "last_commit": "2026-08-23T06:19:31Z",
+            "last_commit": "2026-08-24T13:03:17Z",
             "owner": "Kludex",
             "repo": "uvicorn",
             "stars": 10924
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 9113587,
             "language": "Python",
-            "last_commit": "2026-08-24T07:40:52Z",
+            "last_commit": "2026-08-24T12:33:38Z",
             "owner": "python-websockets",
             "repo": "websockets",
-            "stars": 5713
+            "stars": 5714
           }
         },
         {
@@ -234,7 +234,7 @@
             "archived": false,
             "id": 363150,
             "language": "Python",
-            "last_commit": "2026-08-24T08:00:22Z",
+            "last_commit": "2026-08-24T13:23:50Z",
             "owner": "redis",
             "repo": "redis-py",
             "stars": 13613
@@ -931,7 +931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:57:58.434Z",
+    "last_updated": "2026-08-24T14:04:50.168Z",
     "original_repository": "timofurrer/awesome-asyncio",
     "original_repository_id": 72524688,
     "original_repository_sha": "f2564685e4c8a89a18f53246ea3ec0d2f0441a92",
