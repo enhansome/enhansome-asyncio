@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T17:54:56Z",
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101873
+            "stars": 101887
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 13258039,
             "language": "Python",
-            "last_commit": "2026-08-27T11:06:21Z",
+            "last_commit": "2026-08-27T16:09:14Z",
             "owner": "aio-libs",
             "repo": "aiohttp",
             "stars": 16529
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-26T10:51:06Z",
             "owner": "Kludex",
             "repo": "starlette",
-            "stars": 12573
+            "stars": 12574
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 9113587,
             "language": "Python",
-            "last_commit": "2026-08-26T06:06:33Z",
+            "last_commit": "2026-08-27T16:01:19Z",
             "owner": "python-websockets",
             "repo": "websockets",
-            "stars": 5714
+            "stars": 5715
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-20T18:37:40Z",
             "owner": "zeromq",
             "repo": "pyzmq",
-            "stars": 4164
+            "stars": 4165
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 48712355,
             "language": "Python",
-            "last_commit": "2026-08-21T22:18:14Z",
+            "last_commit": "2026-08-27T20:48:52Z",
             "owner": "nats-io",
             "repo": "nats.py",
             "stars": 1244
@@ -234,10 +234,10 @@
             "archived": false,
             "id": 363150,
             "language": "Python",
-            "last_commit": "2026-08-26T11:23:10Z",
+            "last_commit": "2026-08-27T13:32:48Z",
             "owner": "redis",
             "repo": "redis-py",
-            "stars": 13621
+            "stars": 13622
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-02-27T20:48:41Z",
             "owner": "MagicStack",
             "repo": "asyncpg",
-            "stars": 8075
+            "stars": 8076
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-24T16:57:01Z",
             "owner": "tortoise",
             "repo": "tortoise-orm",
-            "stars": 5614
+            "stars": 5615
           }
         },
         {
@@ -279,7 +279,7 @@
             "archived": false,
             "id": 108051,
             "language": "Python",
-            "last_commit": "2026-08-26T20:06:57Z",
+            "last_commit": "2026-08-27T18:03:57Z",
             "owner": "mongodb",
             "repo": "mongo-python-driver",
             "stars": 4352
@@ -294,7 +294,7 @@
             "archived": false,
             "id": 108051,
             "language": "Python",
-            "last_commit": "2026-08-26T20:06:57Z",
+            "last_commit": "2026-08-27T18:03:57Z",
             "owner": "mongodb",
             "repo": "mongo-python-driver",
             "stars": 4352
@@ -498,7 +498,7 @@
             "last_commit": "2026-03-29T00:19:16Z",
             "owner": "encode",
             "repo": "httpx",
-            "stars": 15444
+            "stars": 15448
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2026-08-10T09:04:53Z",
             "owner": "django",
             "repo": "asgiref",
-            "stars": 1631
+            "stars": 1630
           }
         },
         {
@@ -877,7 +877,7 @@
             "last_commit": "2026-08-27T03:44:56Z",
             "owner": "python-trio",
             "repo": "trio",
-            "stars": 7307
+            "stars": 7308
           }
         },
         {
@@ -923,7 +923,7 @@
             "last_commit": "2026-08-25T16:28:26Z",
             "owner": "agronholm",
             "repo": "anyio",
-            "stars": 2538
+            "stars": 2537
           }
         }
       ],
@@ -931,7 +931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:21:55.577Z",
+    "last_updated": "2026-08-27T21:08:12.152Z",
     "original_repository_info": {
       "archived": false,
       "id": 72524688,
