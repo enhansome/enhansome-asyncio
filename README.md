@@ -11,7 +11,7 @@ The Python [asyncio](https://docs.python.org/3/library/asyncio.html) module intr
 
 Asyncio is not really a brand-new technology however it appears to be very trending since a few years - especially in the Python community and with the release of Python 3.4 in March 2014.
 Thus, it's pretty hard to keep yourself up-to-date with the most awesome packages out there.
-Find some of those *awesome* packages here and if you are missing one we count on you to [create an Issue or a Pull Request](https://github.com/timofurrer/awesome-asyncio/blob/master/CONTRIBUTING.md) ⭐ 5,132 | 🐛 19 | 📅 2025-12-01 with your suggestion.
+Find some of those *awesome* packages here and if you are missing one we count on you to [create an Issue or a Pull Request](https://github.com/timofurrer/awesome-asyncio/blob/master/CONTRIBUTING.md) ⭐ 5,133 | 🐛 19 | 📅 2025-12-01 with your suggestion.
 
 ## Contents
 
@@ -33,11 +33,11 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 *Libraries to build web applications.*
 
-* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 102,609 | 🐛 82 | 🌐 Python | 📅 2026-09-18 - A very high performance Python 3.6+ API framework based on type hints. Powered by Starlette and Pydantic.
-* [sanic](https://github.com/channelcat/sanic) ⭐ 18,636 | 🐛 151 | 🌐 Python | 📅 2026-07-29 - Python 3.5+ web server that's written to go fast.
-* [aiohttp](https://github.com/KeepSafe/aiohttp) ⭐ 16,561 | 🐛 230 | 🌐 Python | 📅 2026-09-25 - Http client/server for asyncio (PEP-3156).
-* [Starlette](https://github.com/encode/starlette) ⭐ 12,634 | 🐛 63 | 🌐 Python | 📅 2026-09-23 - A lightweight ASGI framework/toolkit for building high performance services.
-* [uvicorn](https://github.com/encode/uvicorn) ⭐ 10,988 | 🐛 103 | 🌐 Python | 📅 2026-09-25 - The lightning-fast ASGI server.
+* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 102,629 | 🐛 82 | 🌐 Python | 📅 2026-09-26 - A very high performance Python 3.6+ API framework based on type hints. Powered by Starlette and Pydantic.
+* [sanic](https://github.com/channelcat/sanic) ⭐ 18,635 | 🐛 150 | 🌐 Python | 📅 2026-07-29 - Python 3.5+ web server that's written to go fast.
+* [aiohttp](https://github.com/KeepSafe/aiohttp) ⭐ 16,561 | 🐛 233 | 🌐 Python | 📅 2026-09-26 - Http client/server for asyncio (PEP-3156).
+* [Starlette](https://github.com/encode/starlette) ⭐ 12,637 | 🐛 61 | 🌐 Python | 📅 2026-09-26 - A lightweight ASGI framework/toolkit for building high performance services.
+* [uvicorn](https://github.com/encode/uvicorn) ⭐ 10,990 | 🐛 103 | 🌐 Python | 📅 2026-09-26 - The lightning-fast ASGI server.
 * [websockets](https://github.com/aaugustin/websockets/) ⭐ 5,720 | 🐛 3 | 🌐 Python | 📅 2026-09-24 - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
 * [Quart](https://github.com/pallets/quart) ⭐ 3,673 | 🐛 27 | 🌐 Python | 📅 2026-09-12 - An asyncio web microframework with the same API as Flask.
 * [autobahn](https://github.com/crossbario/autobahn-python) ⭐ 2,541 | 🐛 195 | 🌐 Python | 📅 2026-09-24 - WebSocket and WAMP supporting asyncio and Twisted, for clients and servers.
@@ -51,7 +51,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [pyzmq](https://github.com/zeromq/pyzmq) ⭐ 4,176 | 🐛 60 | 🌐 Python | 📅 2026-09-07 - Python bindings for ZeroMQ.
 * [crossbar](https://github.com/crossbario/crossbar) ⭐ 2,063 | 🐛 306 | 🌐 Python | 📅 2026-09-07 - Crossbar.io is a networking platform for distributed and microservice applications.
 * [aiokafka](https://github.com/aio-libs/aiokafka) ⭐ 1,403 | 🐛 197 | 🌐 Python | 📅 2026-09-10 - Client for Apache Kafka.
-* [asyncio-nats](https://github.com/nats-io/asyncio-nats) ⭐ 1,253 | 🐛 113 | 🌐 Python | 📅 2026-09-25 - Client for the NATS messaging system.
+* [asyncio-nats](https://github.com/nats-io/asyncio-nats) ⭐ 1,254 | 🐛 114 | 🌐 Python | 📅 2026-09-25 - Client for the NATS messaging system.
 * [aiozmq](https://github.com/aio-libs/aiozmq) ⭐ 431 | 🐛 33 | 🌐 Python | 📅 2026-03-26 - Alternative Asyncio integration with ZeroMQ.
 * [aioamqp](https://github.com/Polyconseil/aioamqp) ⭐ 282 | 🐛 35 | 🌐 Python | 📅 2023-05-19 - AMQP implementation using asyncio.
 
@@ -59,18 +59,18 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 *Libraries to connect to databases.*
 
-* [redis-py](https://github.com/redis/redis-py) ⭐ 13,647 | 🐛 87 | 🌐 Python | 📅 2026-09-25 - Redis Python Client (which includes [aioreadis](https://github.com/aio-libs/aioredis) ⚠️ Archived now).
-* [asyncpg](https://github.com/MagicStack/asyncpg) ⭐ 8,094 | 🐛 278 | 🌐 Python | 📅 2026-09-24 - Fast PostgreSQL Database Client Library for Python/asyncio.
+* [redis-py](https://github.com/redis/redis-py) ⭐ 13,647 | 🐛 88 | 🌐 Python | 📅 2026-09-25 - Redis Python Client (which includes [aioreadis](https://github.com/aio-libs/aioredis) ⚠️ Archived now).
+* [asyncpg](https://github.com/MagicStack/asyncpg) ⭐ 8,094 | 🐛 276 | 🌐 Python | 📅 2026-09-25 - Fast PostgreSQL Database Client Library for Python/asyncio.
 * [Tortoise ORM](https://github.com/tortoise/tortoise-orm) ⭐ 5,633 | 🐛 524 | 🌐 Python | 📅 2026-09-18 - native multi-backend ORM with Django-like API and easy relations management.
-* [pymongo](https://github.com/mongodb/mongo-python-driver) ⭐ 4,356 | 🐛 18 | 🌐 Python | 📅 2026-09-25 - The Official MongoDB Python driver, offering both synchronous and asynchronous APIs.
-* [Beanie](https://beanie-odm.dev) - An async MongoDB ODM built on [pymongo](https://github.com/mongodb/mongo-python-driver) ⭐ 4,356 | 🐛 18 | 🌐 Python | 📅 2026-09-25 and [Pydantic](https://pydantic-docs.helpmanual.io).
+* [pymongo](https://github.com/mongodb/mongo-python-driver) ⭐ 4,356 | 🐛 17 | 🌐 Python | 📅 2026-09-25 - The Official MongoDB Python driver, offering both synchronous and asynchronous APIs.
+* [Beanie](https://beanie-odm.dev) - An async MongoDB ODM built on [pymongo](https://github.com/mongodb/mongo-python-driver) ⭐ 4,356 | 🐛 17 | 🌐 Python | 📅 2026-09-25 and [Pydantic](https://pydantic-docs.helpmanual.io).
 * [Databases](https://github.com/encode/databases) ⚠️ Archived - Async database access for SQLAlchemy core, with support for PostgreSQL, MySQL, and SQLite.
-* [GINO](https://github.com/fantix/gino) ⭐ 2,789 | 🐛 54 | 🌐 Python | 📅 2022-02-12 - is a lightweight asynchronous Python ORM based on [SQLAlchemy](https://www.sqlalchemy.org/) core, with [asyncpg](https://github.com/MagicStack/asyncpg) ⭐ 8,094 | 🐛 278 | 🌐 Python | 📅 2026-09-24 dialect.
+* [GINO](https://github.com/fantix/gino) ⭐ 2,789 | 🐛 54 | 🌐 Python | 📅 2022-02-12 - is a lightweight asynchronous Python ORM based on [SQLAlchemy](https://www.sqlalchemy.org/) core, with [asyncpg](https://github.com/MagicStack/asyncpg) ⭐ 8,094 | 🐛 276 | 🌐 Python | 📅 2026-09-25 dialect.
 * [Prisma Client Python](https://github.com/RobertCraigie/prisma-client-py) ⚠️ Archived - An auto-generated, fully type safe ORM powered by Pydantic and tailored specifically for your schema - supports SQLite, PostgreSQL, MySQL, MongoDB, MariaDB and more.
 * [Piccolo](https://github.com/piccolo-orm/piccolo) ⭐ 1,946 | 🐛 48 | 🌐 Python | 📅 2026-09-14 - An ORM / query builder which can work in async and sync modes, with a nice admin GUI, and ASGI middleware.
 * [aiomysql](https://github.com/aio-libs/aiomysql) ⭐ 1,896 | 🐛 122 | 🌐 Python | 📅 2026-03-27 - Library for accessing a MySQL database
 * [aiopg](https://github.com/aio-libs/aiopg/) ⭐ 1,432 | 🐛 88 | 🌐 Python | 📅 2025-12-03 - Library for accessing a PostgreSQL database.
-* [peewee-async](https://github.com/05bit/peewee-async) ⭐ 762 | 🐛 4 | 🌐 Python | 📅 2026-09-21 - ORM implementation based on [peewee](https://github.com/coleifer/peewee) ⭐ 11,992 | 🐛 1 | 🌐 Python | 📅 2026-09-24 and aiopg.
+* [peewee-async](https://github.com/05bit/peewee-async) ⭐ 762 | 🐛 4 | 🌐 Python | 📅 2026-09-21 - ORM implementation based on [peewee](https://github.com/coleifer/peewee) ⭐ 11,993 | 🐛 1 | 🌐 Python | 📅 2026-09-24 and aiopg.
 * [asyncpgsa](https://github.com/CanopyTax/asyncpgsa) ⭐ 505 | 🐛 15 | 🌐 Python | 📅 2024-02-17 - Asyncpg with sqlalchemy core support.
 * [aioodbc](https://github.com/aio-libs/aioodbc) ⭐ 325 | 🐛 39 | 🌐 Python | 📅 2023-10-28 - Library for accessing a ODBC databases.
 * [aioinflux](https://github.com/plugaai/aioinflux) ⚠️ Archived - InfluxDB client built on top of aiohttp.
@@ -81,9 +81,9 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 *Libraries to communicate in your network.*
 
-* [httpx](https://github.com/encode/httpx) ⭐ 15,509 | 🐛 140 | 🌐 Python | 📅 2026-03-29 - asynchronous HTTP client for Python 3 with [requests](https://github.com/psf/requests) ⭐ 54,343 | 🐛 241 | 🌐 Python | 📅 2026-09-21 compatible API.
-* [AsyncSSH](https://github.com/ronf/asyncssh) ⭐ 1,758 | 🐛 16 | 🌐 Python | 📅 2026-09-13 - Provides an asynchronous client and server implementation of the SSHv2 protocol.
-* [aiodns](https://github.com/saghul/aiodns) ⭐ 592 | 🐛 15 | 🌐 Python | 📅 2026-08-18 - Simple DNS resolver for asyncio.
+* [httpx](https://github.com/encode/httpx) ⭐ 15,509 | 🐛 140 | 🌐 Python | 📅 2026-03-29 - asynchronous HTTP client for Python 3 with [requests](https://github.com/psf/requests) ⭐ 54,346 | 🐛 241 | 🌐 Python | 📅 2026-09-21 compatible API.
+* [AsyncSSH](https://github.com/ronf/asyncssh) ⭐ 1,759 | 🐛 16 | 🌐 Python | 📅 2026-09-13 - Provides an asynchronous client and server implementation of the SSHv2 protocol.
+* [aiodns](https://github.com/saghul/aiodns) ⭐ 592 | 🐛 14 | 🌐 Python | 📅 2026-08-18 - Simple DNS resolver for asyncio.
 * [aioping](https://github.com/stellarbit/aioping) ⭐ 92 | 🐛 10 | 🌐 Python | 📅 2024-01-21 - Fast asyncio implementation of ICMP (ping) protocol.
 
 ## GraphQL
@@ -101,7 +101,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) ⭐ 1,663 | 🐛 51 | 🌐 Python | 📅 2026-09-23 - Pytest support for asyncio.
 * [aioresponses](https://github.com/pnuckowski/aioresponses) ⭐ 557 | 🐛 66 | 🌐 Python | 📅 2026-06-23 - Helper for mock/fake web requests in Python aiohttp package.
 * [asynctest](https://github.com/Martiusweb/asynctest/) ⭐ 310 | 🐛 50 | 🌐 Python | 📅 2024-04-22 - Enhance the standard unittest package with features for testing. asyncio libraries
-* [aresponses](https://github.com/CircleUp/aresponses) ⭐ 106 | 🐛 5 | 🌐 Python | 📅 2024-07-11 - Asyncio http mocking. Similar to the [responses](https://github.com/getsentry/responses) ⭐ 4,342 | 🐛 42 | 🌐 Python | 📅 2026-09-24 library used for [requests](https://github.com/requests/requests) ⭐ 54,343 | 🐛 241 | 🌐 Python | 📅 2026-09-21.
+* [aresponses](https://github.com/CircleUp/aresponses) ⭐ 106 | 🐛 5 | 🌐 Python | 📅 2024-07-11 - Asyncio http mocking. Similar to the [responses](https://github.com/getsentry/responses) ⭐ 4,342 | 🐛 42 | 🌐 Python | 📅 2026-09-24 library used for [requests](https://github.com/requests/requests) ⭐ 54,346 | 🐛 241 | 🌐 Python | 📅 2026-09-21.
 * [aiomock](https://github.com/nhumrich/aiomock/) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2024-04-19 - A python mock library that supports async methods.
 
 ## Alternative Loops
@@ -116,7 +116,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 * [aiofiles](https://github.com/Tinche/aiofiles/) ⭐ 3,262 | 🐛 60 | 🌐 Python | 📅 2026-08-29 - File support for asyncio.
 * [ruia](https://github.com/howie6879/ruia) ⭐ 1,737 | 🐛 9 | 🌐 Python | 📅 2026-09-17 - An async web scraping micro-framework based on asyncio.
-* [asgiref](https://github.com/django/asgiref) ⭐ 1,632 | 🐛 66 | 🌐 Python | 📅 2026-09-16 - Backend utils for ASGI to WSGI integration, includes sync\_to\_async and async\_to\_sync function wrappers.
+* [asgiref](https://github.com/django/asgiref) ⭐ 1,631 | 🐛 66 | 🌐 Python | 📅 2026-09-16 - Backend utils for ASGI to WSGI integration, includes sync\_to\_async and async\_to\_sync function wrappers.
 * [aiocache](https://github.com/argaen/aiocache) ⭐ 1,436 | 🐛 67 | 🌐 Python | 📅 2026-06-28 - Cache manager for different backends.
 * [aiorun](https://github.com/cjrh/aiorun) ⭐ 470 | 🐛 2 | 🌐 Python | 📅 2026-08-20 - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
 * [kubernetes\_asyncio](https://github.com/tomplus/kubernetes_asyncio) ⭐ 437 | 🐛 31 | 🌐 Python | 📅 2026-09-11 - Asynchronous client library for Kubernetes.
@@ -124,7 +124,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [aiopath](https://github.com/alexdelorenzo/aiopath) ⭐ 197 | 🐛 26 | 🌐 Python | 📅 2026-02-05 - Asynchronous `pathlib` for asyncio.
 * [aiozipkin](https://github.com/aio-libs/aiozipkin) ⭐ 193 | 🐛 23 | 🌐 Python | 📅 2026-08-31 - Distributed tracing instrumentation for asyncio with zipkin
 * [aiochan](https://github.com/zh217/aiochan) ⭐ 184 | 🐛 1 | 🌐 Python | 📅 2022-11-29 - CSP-style concurrency with channels, select and multiprocessing on top of asyncio.
-* [aioserial](https://github.com/changyuheng/aioserial) ⭐ 145 | 🐛 15 | 🌐 Python | 📅 2022-07-25 - A drop-in replacement of [pySerial](https://github.com/pyserial/pyserial) ⭐ 3,573 | 🐛 345 | 🌐 Python | 📅 2026-05-19.
+* [aioserial](https://github.com/changyuheng/aioserial) ⭐ 145 | 🐛 15 | 🌐 Python | 📅 2022-07-25 - A drop-in replacement of [pySerial](https://github.com/pyserial/pyserial) ⭐ 3,573 | 🐛 347 | 🌐 Python | 📅 2026-05-19.
 * [async\_property](https://github.com/ryananguiano/async_property) ⭐ 98 | 🐛 7 | 🌐 Python | 📅 2026-04-16 - Python decorator for async properties.
 * [aiodebug](https://github.com/qntln/aiodebug) ⭐ 65 | 🐛 0 | 📅 2022-01-04 - A tiny library for monitoring and testing asyncio programs.
 * [aiosc](https://github.com/artfwo/aiosc) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-07-11 -  Lightweight Open Sound Control implementation.
@@ -158,12 +158,12 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 *Alternative approaches to async programming in Python, some of which attempt to support some compatibility with `asyncio`, others are not compatible at all.*
 
-* [trio](https://github.com/python-trio/trio) ⭐ 7,337 | 🐛 331 | 🌐 Python | 📅 2026-09-21 - Pythonic async I/O for humans and snake people.
+* [trio](https://github.com/python-trio/trio) ⭐ 7,338 | 🐛 331 | 🌐 Python | 📅 2026-09-21 - Pythonic async I/O for humans and snake people.
   * [trio-asyncio](https://github.com/python-trio/trio-asyncio) ⭐ 204 | 🐛 31 | 🌐 Python | 📅 2026-05-18 - re-implementation of the asyncio mainloop on top of Trio.
 * [curio](https://github.com/dabeaz/curio) ⚠️ Archived - The coroutine concurrency library.
   * [Curio-Asyncio Bridge](https://github.com/dabeaz/curio/issues/190) ⚠️ Archived - basic curio -> asyncio coroutine bridge.
-* [AnyIO](https://github.com/agronholm/anyio) ⭐ 2,548 | 🐛 122 | 🌐 Python | 📅 2026-09-21 - High level asynchronous concurrency and networking framework that works on top of either trio or asyncio.
+* [AnyIO](https://github.com/agronholm/anyio) ⭐ 2,549 | 🐛 118 | 🌐 Python | 📅 2026-09-26 - High level asynchronous concurrency and networking framework that works on top of either trio or asyncio.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
